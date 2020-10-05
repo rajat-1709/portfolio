@@ -1,12 +1,9 @@
-👇👇👇👇👇👇👇
+# Portfolio Website
 
+You can take a look at my portfolio [here](https://rajat-1709.github.io/portfolio/)
 
-https://rajat-1709.github.io/portfolio/
-
-
-Contributing Guide:-
-<br>
--Update Readme
--Improve Html
--Improve Css
--No Spam!
+**How can I Contribute?**
+- Update Readme
+- Improve Html
+- Improve Css
+- No Spam!
