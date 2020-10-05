@@ -2,7 +2,8 @@ Personal Portfolio
 
 
 Contributing Guide:-
+<br>
 -Update Readme
 -Improve Html
--Improce Css
+-Improve Css
 -No Spam!
