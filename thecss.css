@@ -264,3 +264,7 @@ b, strong {
 {
   background-color:grey;
 }
+
+ul{
+  line-height: 1em;
+}
